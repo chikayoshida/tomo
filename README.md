@@ -89,5 +89,14 @@ https://www.google.co.jp/
 　~~~
 　
 　
+　## category 13
+　
+　~~~ruby
+　class Hoge
+　  def hoge
+　    print 'hoge'
+　  end
+　end
+　~~~
 　
 　
