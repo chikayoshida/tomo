@@ -48,4 +48,28 @@ https://www.google.co.jp/
 
 [Google先生](https://www.google.co.jp/)
 
+## category 11
 
+~~取り消し線~~
+
+## category 12
+
+~~~
+　class Hoge
+　  def hoge
+　    print 'hoge'
+　  end
+　end
+　~~~
+　
+~~~ruby
+　class Hoge
+　  def hoge
+　    print 'hoge'
+　  end
+　end
+　~~~
+　
+　
+　
+　
