@@ -33,6 +33,8 @@
 
 *** ありがとう *** ありがとう
 
+## category 8
 
+[Google先生](https://www.google.co.jp/)
 
 
