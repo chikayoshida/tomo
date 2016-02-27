@@ -70,6 +70,24 @@ https://www.google.co.jp/
 　end
 　~~~
 　
+　~~~ruby
+　class Hoge
+　  def hoge
+　    print 'hoge'
+　  end
+　end
+　~~~
+　
+　## category 12
+　
+　~~~ruby
+　class Hoge
+　  def hoge
+　    print 'hoge'
+　  end
+　end
+　~~~
+　
 　
 　
 　
