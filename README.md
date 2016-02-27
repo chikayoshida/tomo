@@ -104,6 +104,5 @@ https://www.google.co.jp/
 |リーダー|サブリーダ|メンバー|
 |:--|--:|:--:|
 |fukui|Yoshida|XXX|
-
-
+|yes|No|
 　
