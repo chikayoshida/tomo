@@ -2,7 +2,6 @@
 
 ## category1
 おはようございます。
-
 - 感謝
  - ありがとうございます。
 
@@ -14,3 +13,12 @@
 > お世話になります。xxxです。
 > 
 > ご連絡いただいた、バグの件ですが、仕様です。
+
+## category 4
+
+    # Space
+    class Hoge
+      def hoge
+        print 'hoge'
+      end
+    end
