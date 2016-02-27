@@ -22,3 +22,9 @@
         print 'hoge'
       end
     end
+
+## category 5
+インストールコマンドは `gem install hoge` です
+
+## category 6
+ありがとう ** ありがとう * ありがとう 
